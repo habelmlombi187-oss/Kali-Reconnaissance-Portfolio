@@ -76,12 +76,8 @@ The two `/24` ranges are historical scope details from the supplied document. Ch
 kali-recon-portfolio/
 │
 ├── README.md
-├── REPORT.md
-│
 ├── docs/
 │   ├── AUTHORIZATION_EVIDENCE_README.md
-│   └── NW-LOA-B082-017_Authorization.pdf
-│
 ├── recon/
 │   ├── whois_output.txt
 │   ├── whatweb_output.txt
@@ -154,7 +150,7 @@ The supplied portfolio reports:
 - **DNSRecon:** A, SOA, TXT/SPF and SRV/autodiscovery information was reported.
 - **Zenmap/Nmap:** The source portfolio lists `10.0.0.2`, `10.0.0.3`, and `192.168.0.1` as discovered local network nodes, plus `127.0.0.1` as loopback.
 
-See [`REPORT.md`](REPORT.md) for the formal assessment report and [`scans/zenmap_activity.md`](scans/zenmap_activity.md) for the local discovery procedure.
+See [`Footprinting_and_zenmap_report.docx`](Footprinting_and_zenmap_report.docx) for the formal assessment report and [`Zenmap.png`](Zenmap.png) for the local discovery procedure.
 
 ## 9. Disclaimer
 
